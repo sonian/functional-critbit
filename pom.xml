@@ -4,9 +4,9 @@
                              http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>io.prelink</groupId>
+  <groupId>sonian</groupId>
   <artifactId>critbit</artifactId>
-  <version>0.0.5-SNAPSHOT</version>
+  <version>0.0.5s1</version>
   <packaging>jar</packaging>
 
   <properties>
