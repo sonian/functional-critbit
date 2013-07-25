@@ -14,7 +14,7 @@ import org.ardverk.collection.KeyAnalyzer;
  * Adam Langley (https://github.com/agl/critbit),
  * and Okasaki (http://www.eecs.usma.edu/webs/people/okasaki/pubs.html)
  */
-abstract class AbstractCritBitTree<K,V> implements Serializable {
+abstract public class AbstractCritBitTree<K,V> implements Serializable {
 
     static final long serialVersionUID = 20110212L;
 
